@@ -1,3 +1,12 @@
 ﻿# Social_Media_Analytic_Transjakarta_Transsemarang
 
-As a country with a population of 278.6 million, public transportation is crucial for supporting urban mobility in Indonesia. However, factors such as the low quality of services still present significant challenges to public interest in using public transportation. As a result, most Indonesians prefer private vehicles, leading to severe problems like traffic congestion and air pollution. To mitigate these issues, this study offers a solution through a dashboard designed to compare public transportation services in Jakarta and Semarang, specifically Transjakarta and Trans Semarang, through social media sentiment analysis. The developed dashboard integrates BERTopic and sentiment classification models with collected data from the X platform, focusing on public perceptions of Transjakarta and Trans Semarang in 2024. The features include sentiment distribution, tweet distribution, key topics, and popular tweets. The study's results indicate that sentiment towards Trans Semarang is relatively more favorable than Transjakarta's. Performance evaluation also showed satisfactory results, with coherence scores of 0.71 and 0.70 for topic extraction, an accuracy of 0.78 for the sentiment classification model, and an average dashboard user satisfaction score of 8.56 out of 10. This study's findings hopefully can improve Jakarta's and Semarang's quality of public transportation services by providing a foundation for developing more accurate sentiment analysis models and enhancing more innovative and informative dashboards.
+## Overview
+This repository contains the code for analyzing public transportation services in Jakarta (Transjakarta) and Semarang (Trans Semarang) using sentiment analysis with a BERT-based model. As a country with 278.6 million people, Indonesia heavily relies on public transportation to support urban mobility. However, service quality issues have reduced public interest in using public transportation, leading to increased private vehicle usage, traffic congestion, and pollution.
+
+To address these challenges, this study uses social media sentiment analysis from the X platform to assess public perceptions of Transjakarta and Trans Semarang in 2024. The developed dashboard integrates BERTopic and sentiment classification models to present key insights, including sentiment distribution, topic extraction, and tweet analysis.
+
+
+## The code in this repository handles:
+- Data collection from the X platform.
+- Sentiment classification using BERT.
+- Topic extraction via BERTopic.
