@@ -1,0 +1,11 @@
+,topic_id,sentiment_value,topic_name,sentiment
+0,1,-1,"feeder, ugalan, banyumanik, hendrarprihadi, kuota",Negative
+1,8,-2,"acnya, sore, tawang, kak, jam",Negative
+2,5,-3,"halte, balaikota, info, imam, tanah",Negative
+3,2,0,"kota, semarang, gading, memfasilitasi, teman",Neutral
+4,4,7,"bus, iv, cangkiran, trans, layanan",Positive
+5,6,1,"khusus, ngerasain, ts, berlaku, karna",Positive
+6,3,-1,"alun, max, dimana, jurusan, terdekat",Negative
+7,9,-4,"tanah, putih, halte, gimana, polines",Negative
+8,7,-1,"armada, godong, banget, ditambah, armadanya",Negative
+9,10,-1,"cash, tap, tarif, tunai, cashless",Negative

@@ -1,0 +1,11 @@
+,Unnamed: 0,topic_id,sentiment_value,topic_name,sentiment,positive_count,neutral_count,negative_count
+0,0,4,-8,"gimana, mall, rutenya, tj, central",Negative,1,29,9
+1,1,2,0,"kah, tj, koridor, pake, tolong",Neutral,5,28,5
+2,2,3,-6,"halte, gbk, arah, senayan, kuningan",Negative,0,22,6
+3,3,8,-1,"tap, out, in, kepotong, saldo",Negative,1,8,9
+4,4,7,0,"halo, rute, layanan, slipi, padam",Neutral,0,15,1
+5,5,1,-8,"jam, sampe, kak, rute, jurusan",Negative,0,14,0
+6,6,5,-1,"tracking, maps, google, live, fitur",Negative,1,12,1
+7,7,10,-5,"jam, brp, operasional, weekday, weekend",Negative,0,12,1
+8,8,6,0,"kemayoran, halte, jiexpo, gmna, rutenya",Neutral,1,11,1
+9,9,9,0,"penumpang, minggu, supir, kendaraan, ngetem",Neutral,1,5,6
